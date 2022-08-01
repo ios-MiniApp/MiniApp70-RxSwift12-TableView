@@ -19,6 +19,7 @@
 		870EC11128974D0F00ED8CC1 /* SampleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870EC11028974D0F00ED8CC1 /* SampleViewModel.swift */; };
 		870EC11628974D8700ED8CC1 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870EC11428974D8700ED8CC1 /* TableViewCell.swift */; };
 		870EC11728974D8700ED8CC1 /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 870EC11528974D8700ED8CC1 /* TableViewCell.xib */; };
+		870EC1192897531900ED8CC1 /* MyDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870EC1182897531900ED8CC1 /* MyDataSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		870EC11028974D0F00ED8CC1 /* SampleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleViewModel.swift; sourceTree = "<group>"; };
 		870EC11428974D8700ED8CC1 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		870EC11528974D8700ED8CC1 /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
+		870EC1182897531900ED8CC1 /* MyDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				870EC11028974D0F00ED8CC1 /* SampleViewModel.swift */,
 				870EC11428974D8700ED8CC1 /* TableViewCell.swift */,
 				870EC11528974D8700ED8CC1 /* TableViewCell.xib */,
+				870EC1182897531900ED8CC1 /* MyDataSource.swift */,
 			);
 			path = "MiniApp70-RxSwift12-TableView";
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				870EC11628974D8700ED8CC1 /* TableViewCell.swift in Sources */,
 				870EC0F828974C0700ED8CC1 /* SceneDelegate.swift in Sources */,
 				870EC10F28974CC500ED8CC1 /* SampleModel.swift in Sources */,
+				870EC1192897531900ED8CC1 /* MyDataSource.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
